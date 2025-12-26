@@ -1,6 +1,5 @@
 package med.voll.api.domain.medico;
 
-import med.voll.api.controller.Medico;
 import med.voll.api.domain.endereco.Endereco;
 
 public record DadosDetalhamentoMedico(
